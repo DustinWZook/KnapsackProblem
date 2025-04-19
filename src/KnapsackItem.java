@@ -1,3 +1,4 @@
+//Create a single knapsack item with value and weight
 public class KnapsackItem {
     public int value;
     public int weight;
